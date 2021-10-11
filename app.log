@@ -1,0 +1,4 @@
+2021-10-11 17:21:07.489 [main] DEBUG by.grsu.EpamCourse.Task1.FlowerComposition - sort list flowers by freshness
+2021-10-11 17:21:07.501 [main] INFO  by.grsu.EpamCourse.Task1.FlowerComposition - sorted list by freshness: [RoseFlower{name=Rose, price=10, stem=40, freshness=Day_1}, ChrysanthemumFlower{name=Chrysanthemum, price=12, stem=30, freshness=Day_2}, ChamomileFlower{name=Chamomile, price=8, stem=24, freshness=Day_3}, TulipFlower{name=Tulip, price=15, stem=37, freshness=Day_4}]
+2021-10-11 17:21:07.503 [main] DEBUG by.grsu.EpamCourse.Task1.FlowerComposition - flower with stem length between 20 and 30
+2021-10-11 17:21:07.504 [main] INFO  by.grsu.EpamCourse.Task1.FlowerComposition - list flower with stem 20 and 30 : [ChrysanthemumFlower{name=Chrysanthemum, price=12, stem=30, freshness=Day_2}, ChamomileFlower{name=Chamomile, price=8, stem=24, freshness=Day_3}]
