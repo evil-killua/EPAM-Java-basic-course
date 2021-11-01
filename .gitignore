@@ -8,3 +8,6 @@ out/
 *.iml
 *.ipr
 *.iws
+
+# Log file
+*.log
